@@ -239,9 +239,9 @@ Terkadang kelas tidak dalam sesi jadi Anda harus menunggu beberapa bulan, jadi A
 
 ## Proses Interview dan Preparasi Wawancara Secara Umum
 
-- [ ] [ABC: Selalu Menjadi Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Papan tulis (Whiteboarding)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [Memperlihatkan Perekrutan Teknologi](https://www.youtube.com/watch?v=N233T0epWTs)
+- [X] [ABC: Selalu Menjadi Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [X] [Papan tulis (Whiteboarding)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [Memperlihatkan Perekrutan Teknologi](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cara Mendapatkan Pekerjaan di Big 4:
     - [ ] [Cara Mendapatkan Pekerjaan di Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] Memecahkan Set Wawancara Coding 1:
